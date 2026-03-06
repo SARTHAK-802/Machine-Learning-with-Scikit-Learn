@@ -68,7 +68,7 @@ machine-learning-with-sklearn
 
 ---
 
-## ⚙️ Technologies Used
+## ⚙️ Libraries Used
 
 * Python
 * NumPy
