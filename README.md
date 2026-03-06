@@ -1,100 +1,67 @@
-# Machine Learning with Scikit-Learn
+# Machine Learning Projects (Scikit Learn Implementation)
 
-This repository contains implementations of fundamental machine learning models using Python and the scikit-learn library. The goal of this project is to explore and understand various machine learning algorithms for regression, classification, clustering, and dimensionality reduction.
-
-The repository is designed as a practical reference for learning machine learning workflows, including data preprocessing, model training, evaluation, and visualization.
-
----
-
-## 📚 Algorithms Implemented
-
-### Regression
-
-* Linear Regression
-* Polynomial Regression
-* Ridge Regression
-* Lasso Regression
-* ElasticNet
-
-### Classification
-
-* Logistic Regression
-* K-Nearest Neighbors (KNN)
-* Support Vector Machine (SVM)
-* Decision Tree
-* Random Forest
-* Naive Bayes
-* Gradient Boosting
-
-### Clustering
-
-* K-Means Clustering
-* DBSCAN
-
-### Dimensionality Reduction
-
-* Principal Component Analysis (PCA)
-* t-SNE
+This repository contains multiple **Machine Learning projects implemented using Python and Scikit-Learn**.  
+The goal of this repository is to practice machine learning algorithms, data preprocessing, model evaluation, and build a strong ML portfolio.
 
 ---
 
-## 🗂 Repository Structure
-
-```
-machine-learning-with-sklearn
+## Repository Structure
+Machine-Learning-Projects
 │
-├── regression
-│   ├── linear_regression.ipynb
-│   ├── ridge_regression.ipynb
-│   └── lasso_regression.ipynb
+├── project_1
+│ ├── data
+│ ├── notebooks
+│ ├── src
+│ └── README.md
 │
-├── classification
-│   ├── logistic_regression.ipynb
-│   ├── knn_classifier.ipynb
-│   ├── svm_classifier.ipynb
-│   ├── decision_tree.ipynb
-│   └── random_forest.ipynb
+├── project_2
+│ ├── data
+│ ├── notebooks
+│ ├── src
+│ └── README.md
 │
-├── clustering
-│   ├── kmeans.ipynb
-│   └── dbscan.ipynb
+├── project_n
+│ ├── data
+│ ├── notebooks
+│ ├── src
+│ └── README.md
 │
-├── dimensionality_reduction
-│   ├── pca.ipynb
-│   └── tsne.ipynb
-│
+├── requirements.txt
 └── README.md
-```
 
 ---
 
-## ⚙️ Libraries Used
+## Libraries and Tools
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* scikit-learn
-
----
-
-## 🎯 Goals
-
-* Learn the practical implementation of machine learning algorithms
-* Understand model training and evaluation
-* Explore different types of machine learning techniques
-* Build a reference collection of machine learning models
+- Python
+- NumPy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ---
 
-## 📊 Future Improvements
+## Machine Learning Pipline
 
-* Hyperparameter tuning
-* Model comparison and benchmarking
-* Cross-validation techniques
-* Feature engineering examples
-* More advanced algorithms
+Typical workflow used in these projects:
+
+1. Data Loading
+2. Data Preprocessing
+3. Train-Test Split
+4. Model Training
+5. Model Evaluation
+6. Prediction
+
+---
+
+## Goals
+
+- Practice machine learning algorithms
+- Understand ML workflows
+- Build real-world ML projects
+- Create a strong GitHub portfolio
 
 ---
 
