@@ -111,14 +111,13 @@ streamlit run app.py
 * Add more advanced models (XGBoost, LightGBM)
 * Improve UI/UX design
 * Deploy using FastAPI + React for production
-* Add model performance metrics (R², RMSE)
 
 ---
 
 ## Author
 
 **Sarthak Maity**
-🔗 GitHub: [SARTHAK-802.github.io](https://sarthak-802.github.io/)e
+🔗 GitHub: [SARTHAK-802.github.io](https://sarthak-802.github.io/)
 
 
 ---
