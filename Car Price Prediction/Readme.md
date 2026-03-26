@@ -117,8 +117,8 @@ streamlit run app.py
 
 ## Author
 
-**Sarthak Maiyy**
-🔗 GitHub: [https://github.com/your-usernam](https://sarthak-802.github.io/)e
+**Sarthak Maity**
+🔗 GitHub: [SARTHAK-802.github.io](https://sarthak-802.github.io/)e
 
 
 ---
