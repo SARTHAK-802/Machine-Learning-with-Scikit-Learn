@@ -49,10 +49,10 @@ The model is deployed as an interactive web application using **Streamlit**, all
 ```
 Car-Price-Prediction/
 │
-├── app.py                # Streamlit web application
+├── app.py               # Streamlit web application
 ├── model.pkl            # Trained ML model
 ├── columns.pkl          # Feature columns
-├── notebook.ipynb       # Model training notebook
+├── code.py              # Model training notebook
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
 ```
@@ -117,8 +117,8 @@ streamlit run app.py
 
 ## Author
 
-**Your Name**
-🔗 GitHub: https://github.com/your-username
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+**Sarthak Maiyy**
+🔗 GitHub: [https://github.com/your-usernam](https://sarthak-802.github.io/)e
+
 
 ---
