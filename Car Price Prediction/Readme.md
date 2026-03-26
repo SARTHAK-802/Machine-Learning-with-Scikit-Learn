@@ -1,6 +1,6 @@
-# 🚗 Car Price Prediction Web App
+# Car Price Prediction Web App
 
-## 📌 Overview
+## Overview
 
 This project is an end-to-end Machine Learning application that predicts the selling price of a used car based on various features such as year, present price, kilometers driven, fuel type, seller type, transmission, and ownership.
 
@@ -8,7 +8,7 @@ The model is deployed as an interactive web application using **Streamlit**, all
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 [Click here to use the app](https://your-app.streamlit.app)
 
@@ -23,7 +23,7 @@ The model is deployed as an interactive web application using **Streamlit**, all
 
 ---
 
-## 📊 Features
+## Features
 
 * Predict car selling price instantly
 * User-friendly web interface
@@ -32,7 +32,7 @@ The model is deployed as an interactive web application using **Streamlit**, all
 
 ---
 
-## 🧠 Machine Learning Workflow
+## Machine Learning Workflow
 
 1. Data Collection
 2. Data Cleaning & Preprocessing
@@ -44,7 +44,7 @@ The model is deployed as an interactive web application using **Streamlit**, all
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Car-Price-Prediction/
@@ -59,22 +59,22 @@ Car-Price-Prediction/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️. Clone the repository
 
 ```
 git clone https://github.com/your-username/Car-Price-Prediction.git
 cd Car-Price-Prediction
 ```
 
-### 2️⃣ Install dependencies
+### 2️. Install dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run the application
+### 3️. Run the application
 
 ```
 streamlit run app.py
@@ -82,7 +82,7 @@ streamlit run app.py
 
 ---
 
-## 📥 Input Features
+## Input Features
 
 * Year of Purchase
 * Present Price (in lakhs)
@@ -94,19 +94,19 @@ streamlit run app.py
 
 ---
 
-## 📤 Output
+## Output
 
 * Predicted selling price of the car (in lakhs ₹)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 (Add your app screenshot here)
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 * Add more advanced models (XGBoost, LightGBM)
 * Improve UI/UX design
@@ -115,14 +115,10 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Your Name**
 🔗 GitHub: https://github.com/your-username
 🔗 LinkedIn: https://linkedin.com/in/your-profile
 
 ---
-
-## ⭐ If you like this project
-
-Give it a star on GitHub ⭐
